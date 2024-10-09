@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GerJaeger
 - 👀 I’m interested in doing random stuff.
-- 🌱 I’m currently studying in Germany.
+- 🌱 I’m currently studying at Ostfalia in Wolfenbüttel in Germany.
 - 📫 How to reach me: dc: ger.jaeger
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: Soccer is like chess without rolling the dice
