@@ -3,7 +3,7 @@
 - 🌱 I’m currently studying at Ostfalia in Wolfenbüttel in Germany.
 - 📫 How to reach me: dc: ger.jaeger
 - 😄 Pronouns: He/Him 
-- ⚡ Fun fact: Soccer is like chess without rolling the dice
+- ⚡ Fun fact: "Nachts ist es kälter als draußen."
 
 <!---
 GerJaeger/GerJaeger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
